@@ -1,0 +1,3 @@
+This is a project using React.js to build. It will include using React Router to route different data to different pages, using Context, UseState, UseEffect, UseNavigation, etc. to transfer and use data "globally" between different files(pages).
+To start the project, you need to start the backend server to atrieve the written data by command "npm run". And then, start the front end part by using "npm run start".
+Tech: HTML,CSS, React.js and Javascript.

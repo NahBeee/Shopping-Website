@@ -1,0 +1,14 @@
+.navbar{
+    display: inline;
+    justify-content: flex-end;
+    flex-direction: row;
+}
+.navbar >*{
+    margin-left: 2rem;
+    color: #800000	;
+    text-decoration: none;
+    transition: 200ms ease-in-out; 
+}
+.navbar > *:hover{
+    color: #2f4f4f;
+}
