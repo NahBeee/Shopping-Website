@@ -1,3 +1,5 @@
-This is a project using React.js to build. It will include using React Router to route different data to different pages, using Context, UseState, UseEffect, UseNavigation, etc. to transfer and use data "globally" between different files(pages).
-To start the project, you need to start the backend server to atrieve the written data by command "npm run". And then, start the front end part by using "npm run start".
-Tech: HTML,CSS, React.js and Javascript.
+Embark on a delightful online fruit shopping journey with our vibrant website, expertly crafted using HTML, CSS, and JavaScript, powered by the efficiency of ReactJS. Our product pages showcase a cornucopia of fresh, succulent fruits, each displayed with elegance and precision. The seamless navigation between pages is made possible by React Router, ensuring a smooth and intuitive user experience.
+
+Underpinning the website's dynamic functionality are React hooks like useState and useEffect, meticulously employed to streamline state management and handle essential side effects. As you peruse our diverse selection, custom hooks, including useNavigation, enhance the browsing experience by encapsulating and reusing intricate navigation logic.
+
+When you're ready to savor the fruits of your selection, our checkout pages await, providing a secure and user-friendly environment to complete your purchase. Immerse yourself in the world of online fruit shopping, where technology meets taste, and each click is a step closer to a virtual orchard of freshness.
